@@ -43,7 +43,7 @@ Planned topics:
 Install the initial dependencies:
 
 ```bash
-pip install tiktoken sentence-transformers
+pip install tiktoken sentence-transformers openai
 ```
 
 ## Current Example
